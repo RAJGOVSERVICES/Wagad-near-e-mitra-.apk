@@ -1,0 +1,6 @@
+{
+  "name": "WagadNeer eMitra",
+  "description": "Wagad Neer Digital eMitra Seva Kendra - Decha (Dungarpur, Rajasthan). Government forms, online services, printing, and digital applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
